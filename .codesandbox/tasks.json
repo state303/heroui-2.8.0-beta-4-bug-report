@@ -9,7 +9,7 @@
 
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
   "tasks": {
-    "vite": {
+    "Start": {
       "name": "Start development server",
       "command": "pnpm run dev",
       "runAtStart": true,
